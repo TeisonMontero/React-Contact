@@ -1,0 +1,9 @@
+body { 
+  background: -webkit-linear-gradient(to right, #d7d2cc, #304352); 
+  background: linear-gradient(to right, #d7d2cc, #304352);}
+span{
+  margin-right: 20px;
+}
+h3, label{
+  color: #005ee2bb; font-size: 20px;
+}
